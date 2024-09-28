@@ -10,7 +10,7 @@ I used Ai to get the appropriate structure and i then used Google to gather fact
 **2. Comparative Analysis**
 
 **A. Christianity and Islam**
-Similarities Between Christianity and Islam
+**Similarities Between Christianity and Islam**
 
 Christianity and Islam are the two largest religions in the world and share many similarities and differences.People who follow the Islamic faith are called Muslims and there are around 2 billion Muslims in the world today.People who follow the teachings of Jesus Christ are called Christians and there are around 2.4 billion Christians in the world today.At first, it seems that the two religions are very different, but there are many similarities between Christianity and Islam. Both religions have a similar place of origin - which is in the Middle East. Christians believe Jesus, who is the son of God, was born in the Middle East in Bethlehem over 2000 years ago. Muslims believe Islam was founded over 1400 years ago in Makkah, which is known today as Saudi Arabia.
 
@@ -46,10 +46,111 @@ This picture of God—wherein the attributes of power, justice, and mercy interp
 
 In order to prove the unity of God, the Qurʾān lays frequent stress on the design and order in the universe. There are no gaps or dislocations in nature. Order is explained by the fact that every created thing is endowed with a definite and defined nature whereby it falls into a pattern. This nature, though it allows every created thing to function in a whole, sets limits, and this idea of the limitedness of everything is one of the most fixed points in both the cosmology and theology of the Qurān. The universe is viewed, therefore, as autonomous, in the sense that everything has its own inherent laws of behaviour, but not as autocratic, because the patterns of behaviour have been endowed by God and are strictly limited. “Everything has been created by us according to a measure.” Though every creature is thus limited and “measured out” and hence depends upon God, God alone, who reigns unchallenged in the heavens and the earth, is unlimited, independent, and self-sufficient.
 
+According to the Qurān, God created two apparently parallel species of creatures, human beings and jinn, the one from clay and the other from fire. About the jinn, however, the Qurʾān says little, although it is implied that the jinn are endowed with reason and responsibility but are more prone to evil than human beings are. It is with humanity that the Qurʾān, which describes itself as a guide for the human race, is centrally concerned. The story of the Fall of Adam (the first man) promoted in Judaism and Christianity is accepted, but the Qurʾān states that God forgave Adam his act of disobedience, which is not viewed in the Qurʾān as original sin in the Christian sense of the term.
 
-Cultural Impacts:
+In the story of the creation of humanity, Iblīs, or Satan, who protested to God against the creation of human beings, because they “would sow mischief on earth,” lost in the competition of knowledge against Adam. The Qurʾān, therefore, declares humanity to be the noblest of all creation, the created being who bore the trust (of responsibility) that the rest of creation refused to accept. The Qurʾān thus reiterates that all nature has been made subservient to humans, who are seen as God’s vice-regent on earth; nothing in all creation has been made without a purpose, and humanity itself has not been created “in sport” but rather has been created with the purpose of serving and obeying God’s will.
 
-Christianity's influence on Western art, philosophy, education, and law.
+Despite this lofty station, however, the Qurʾān describes human nature as frail and faltering. Whereas everything in the universe has a limited nature and every creature recognizes its limitation and insufficiency, human beings are viewed as having been given freedom and therefore are prone to rebelliousness and pride, with the tendency to arrogate to themselves the attributes of self-sufficiency. Pride, thus, is viewed as the cardinal sin of human beings, because, by not recognizing in themselves their essential creaturely limitations, they become guilty of ascribing to themselves partnership with God (shirk: associating a creature with the Creator) and of violating the unity of God. True faith (īmān), thus, consists of belief in the immaculate Divine Unity and islām (surrender) in one’s submission to the Divine Will.
+
+
+**Cultural Impacts:**
+
+**Christianity's Influence On Western Art**, philosophy, education, and law.
+The roots of Christian art and architecture can be traced back to the early centuries of the Common Era when the Christian faith began to spread throughout the Roman Empire. During this period, Christians often practiced their faith in secret due to persecution, leading to the development of the catacombs—underground burial sites that also served as places of worship. The art found in these catacombs provides some of the earliest examples of Christian iconography, with simple frescoes depicting biblical scenes, symbols like the fish (Ichthys), and the Good Shepherd.
+
+As Christianity gained acceptance with Emperor Constantine's Edict of Milan in 313 AD, it moved from hidden worship to more public and monumental forms. The construction of basilicas, such as the Old St. Peter's Basilica in Rome, marked the beginning of Christian architectural influence. These structures, characterized by their large interior spaces and nave-and-aisle design, provided a model for future Christian churches.
+
+The Byzantine Empire, with its capital in Constantinople (modern-day Istanbul), became a center of Christian art and architecture from the 4th to the 15th centuries. Byzantine art is renowned for its use of mosaics, gold, and vibrant colors, reflecting the divine light and heavenly glory. The gold Orthodox cross became a prominent symbol in Byzantine churches, signifying the glory of Christ and the spiritual wealth of the church.
+
+Byzantine architecture is exemplified by the Hagia Sophia, a marvel of engineering and design with its massive dome and intricate mosaics. The use of domes in Christian architecture symbolized the heavens, while the mosaics often depicted Christ, the Virgin Mary, saints, and biblical scenes, serving both decorative and didactic purposes. Icons also played a significant role in Byzantine worship, providing visual representations of sacred figures that aided the faithful in their devotion.
+
+The Romanesque period (roughly 9th to 12th centuries) saw the construction of solid, fortress-like churches with rounded arches, thick walls, and small windows. These structures, such as the Abbey Church of Saint-Denis in France, were designed to convey the strength and permanence of the Christian faith. Romanesque art often featured biblical scenes, saints, and the Last Judgment, carved into stone portals and capitals.
+
+The Gothic era (12th to 16th centuries) marked a significant shift in Christian architecture, emphasizing verticality and light. Gothic cathedrals, like Chartres Cathedral and Notre-Dame de Paris, featured pointed arches, ribbed vaults, and flying buttresses, allowing for taller structures and larger windows. Stained glass became a hallmark of Gothic architecture, depicting biblical stories and saints in vibrant colors that filled the interior with light, symbolizing the presence of God. The use of light, space, and height in Gothic architecture aimed to inspire awe and lift the soul toward the divine.
+
+In the modern era, Christian art and architecture continue to evolve, reflecting contemporary styles and theological ideas. Modern churches often blend traditional elements with innovative designs, using materials like concrete and steel. Architects like Le Corbusier and Antoni Gaudí have contributed to the modern Christian architectural landscape with works like the Chapel of Notre Dame du Haut in France and the Sagrada Família in Spain, which combine abstract forms with religious symbolism.
+
+The Reformation in the 16th century led to a shift in religious art, especially in Protestant regions, where the focus moved away from elaborate church decorations and icons. Protestant reformers emphasized the simplicity of worship and the centrality of the Bible, leading to plainer church interiors. However, in Catholic regions, the Counter-Reformation inspired the Baroque style, characterized by dramatic, emotional art and architecture designed to evoke spiritual experience and devotion.
+
+Contemporary Christian art also engages with modern themes and concerns, addressing issues like social justice, environmental stewardship, and interfaith dialogue. Christian artists continue to explore new ways of expressing their faith through visual arts, using a wide range of media and styles.
+
+Christianity's influence on Western art and architecture is profound and enduring, shaping cultural and artistic expressions for centuries. From the early catacombs to modern church designs, Christian art and architecture have evolved, reflecting theological developments, cultural shifts, and artistic innovations.
+
+**Christianity's Influence On Philosophy**
+Christian philosophy includes all philosophy carried out by Christians, or in relation to the religion of Christianity. Christian philosophy emerged with the aim of reconciling science and faith, starting from natural rational explanations with the help of Christian revelation. Several thinkers such as Origen of Alexandria and Augustine believed that there was a harmonious relationship between science and faith, others such as Tertullian claimed that there was contradiction and others tried to differentiate them.[1]
+
+There are scholars who question the existence of a Christian philosophy itself. These claim that there is no originality in Christian thought and its concepts and ideas are inherited from Greek philosophy. Thus, Christian philosophy would protect philosophical thought, which would already be definitively elaborated by Greek philosophy.[2]
+
+However, Boehner and Gilson claim that Christian philosophy is not a simple repetition of ancient philosophy, although they owe to Greek science the knowledge developed by Plato, Aristotle and the Neo-Platonists. They even claim that in Christian philosophy, Greek culture survives in organic form.[3]
+
+In the early days when people began to get converted to Christianity there were not many Christians that were well educated. But by the third century there were Greek Christians who were sizeably intellectual and educated in the philosophy of the day. When they tried to engage in preaching the Christian gospel and apologetics with their fellow citizens who were also intellectuals, they frequently used the categories of Greek thought and philosophy in order to explain their beliefs. That happened, notoriously so, in the attempts of the church fathers to explain how Jesus could be both man and God simultaneously. If you look at the explanations they give and the terms they use, they are the terms borrowed from Aristotelian philosophy and so forth. They were the only categories of thought open to them at the time, if they wanted to be philosophical.
+
+Some of the Greek philosophers were fatalists, the Stoics for instance. Stoicism commended itself to many, and to Romans in particular, as being a manly faith. They couldn't accept Epicureanism, which, among other things, made the whole universe—man included—depend upon chance. Stoics were more fatalists. It is not surprising, therefore, that medieval schoolmen and even the Reformers (whose education was firstly in classical philosophies and classical languages, and then in theology) took some of their concepts of God from Greek philosophy. Some of the fatalism that lies behind extreme forms of Calvinism owes a tremendous lot, in my humble estimation, to the influence of the fatalism of Greek philosophy on men like Calvin, who were first students of Greek philosophy before they became believers and then theologians.
+
+If you want a clear example of that kind of thing, you could take the question whether it is possible for God to suffer. It has only been comparatively recently—within my lifetime—that Christian theologians have been willing to admit that God the Father can suffer. They held steadfastly over many centuries that God was impassible, meaning that God can't suffer. They argued, therefore, that God experiences no emotion, because emotion implies change, and God is utterly unchangeable. He is, they said, supreme perfection. If he changed for the better he wasn't perfect to start with; if he changed for the worse he was no longer perfect. And since emotions imply a change in you, from being calm to being emotional, God cannot experience emotion. And it went down the centuries, until recent times, in Christian theology that God cannot suffer, and you would be told it would be wrong to say that at Calvary the Father suffered anything. Only Jesus could suffer, because he was human.
+
+I don't know how Christian theologians could ever have thought that was true, when they had the whole of the Old Testament saying the very opposite: 'God is angry with sinners every day' (Psalm 7:11); 'In all their affliction he was afflicted' (Isaiah 63:9). The God of the Old Testament is no Aristotelian god of Greek philosophy. He happens to be the true God. You don't suppose that when God the Father saw his son hanging upon Calvary he sat upon his throne unmoved, do you? Greek philosophy has so influenced Christian theologians that, for many centuries, they held that God was utterly impassible. We now see, of course, that is wrong.
+
+If we have studied a great deal of Greek philosophy, we need to make sure that the God we worship is not one described in terms of Greek philosophy. The God we serve is, excuse the term, a Christian God. If you want to know what God is like, God is like Jesus Christ, his Son.
+
+**Christianity's Influence On Education**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Islam's contributions to science, mathematics, art, architecture, and legal systems in the Middle East and beyond.
 
