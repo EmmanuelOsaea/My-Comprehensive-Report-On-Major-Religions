@@ -412,18 +412,58 @@ The Rigveda contains few examples of asceticism, except among the “silent ones
 
 The origin and development of the belief in transmigration of souls are very obscure. A few passages suggest that this doctrine was known even in the days of the Rigveda, and the Brahmanas often refer to doctrines of re-death and rebirth, but it was first clearly propounded in the earliest Upanishad—the Brihadaranyka. There it is stated that the soul of a Vedic sacrificer returns to earth and is reborn in human or animal form. This doctrine of samsara (reincarnation) is attributed to the sage Uddalaka Aruni, who is said to have learned it from a Kshatriya chief. In the same text, the doctrine of karma (“actions”), according to which the soul achieves a happy or unhappy rebirth according to its works in the previous life, occurs for the first time and is attributed to the theologian Yajnavalkya. Both doctrines seem to have been new, circulating among small groups of ascetics who were disinclined to make them public, perhaps for fear of the orthodox priests. These doctrines must have spread rapidly, for they appear in the later Upanishads and in the earliest Buddhist and Jain scriptures.
     
-    
-    
-    
-    
-    
-    
+**Buddhism:** Buddhism, religion and philosophy that developed from the teachings of the Buddha (Sanskrit: “Awakened One”), a teacher who lived in northern India between the mid-6th and mid-4th centuries bce (before the Common Era). Spreading from India to Central and Southeast Asia, China, Korea, and Japan, Buddhism has played a central role in the spiritual, cultural, and social life of Asia, and, beginning in the 20th century, it spread to the West.
+
+Ancient Buddhist scripture and doctrine developed in several closely related literary languages of ancient India, especially in Pali and Sanskrit. In this article Pali and Sanskrit words that have gained currency in English are treated as English words and are rendered in the form in which they appear in English-language dictionaries. Exceptions occur in special circumstances—as, for example, in the case of the Sanskrit term dharma (Pali: dhamma), which has meanings that are not usually associated with the term dharma as it is often used in English. Pali forms are given in the sections on the core teachings of early Buddhism that are reconstructed primarily from Pali texts and in sections that deal with Buddhist traditions in which the primary sacred language is Pali. Sanskrit forms are given in the sections that deal with Buddhist traditions whose primary sacred language is Sanskrit and in other sections that deal with traditions whose primary sacred texts were translated from Sanskrit into a Central or East Asian language such as Tibetan or Chinese.
+
+**Non-theistic**  belief in karma and rebirth, Tipitaka as the primary scripture.
+
+While some Buddhists believe in deities, Buddhism is usually considered a nontheistic religion because the main focus is on following a moral and ethical code outlined by the Eight-Fold Path. Some Buddhists believe in and worship deities, but the Buddha, Siddhartha Gautama, is not considered a deity because he was simply the guru who helped teach about the truth for finding enlightenment.
+
+**Four Noble Truths**
+
+In Buddhism, the Four Noble Truths (Sanskrit: चत्वार्यार्यसत्यानि, romanized: catvāryāryasatyāni; Pali: cattāri ariyasaccāni; "The Four arya satya") are "the truths of the noble one (the Buddha),"[a][b] a statement of how things really are when they are seen correctly.[1][note 1] The four truths are
+
+dukkha (not being at ease, 'suffering',[note 2] from dush-stha, standing unstable).[2][3][4][5] Dukkha is an innate characteristic of transient existence;[web 1][c][6] nothing is forever, this is painful;
+samudaya (origin, arising, combination; 'cause'): together with this transient world and its pain, there is also thirst, craving for and attachment to this transient, unsatisfactory existence;[web 2][d][7][e][9]
+nirodha (cessation, ending, confinement): the attachment to this transient world and its pain can be severed or contained by the confinement[8][9] or letting go of this craving;[10][11][f][12]
+marga (road, path, way): the Noble Eightfold Path is the path leading to the confinement of this desire and attachment, and the release from dukkha.[g][13][14]
+
+The four truths grew to be of central importance in the Theravada tradition of Buddhism by about the 5th-century CE,[38][39] which holds that the insight into the four truths is liberating in itself.[40] They are less prominent in the Mahayana tradition, which sees the higher aims of insight into sunyata, emptiness, and following the Bodhisattva path as central elements in their teachings and practice.[41] The Mahayana tradition reinterpreted the four truths to explain how a liberated being can still be "pervasively operative in this world".[42] Beginning with the exploration of Buddhism by western colonialists in the 19th century and the development of Buddhist modernism, they came to be often presented in the west as the central teaching of Buddhism,[43][44] sometimes with novel modernistic reinterpretations very different from the historic Buddhist traditions in Asia.[45][46][47]
+
+**Eightfold Path**
+
+Eightfold Path, in Buddhism, an early formulation of the path to enlightenment. The idea of the Eightfold Path appears in what is regarded as the first sermon of the founder of Buddhism, Siddhartha Gautama, known as the Buddha, which he delivered after his enlightenment. There he sets forth a middle way, the Eightfold Path, between the extremes of asceticism and sensual indulgence. Like the Sanskrit term Chatvari-arya-satyani, which is usually translated as Four Noble Truths, the term Astangika-marga also implies nobility and is often rendered as the “Eightfold Noble Path.” Similarly, just as what is noble about the Four Noble Truths is not the truths themselves but those who understand them, what is noble about the Eightfold Noble Path is not the path itself but those who follow it. Accordingly, Astangika-marga might be more accurately translated as the “Eightfold Path of the [spiritually] noble.” Later in the sermon, the Buddha sets forth the Four Noble Truths and identifies the fourth truth, the truth of the path, with the Eightfold Path. Each element of the path also is discussed at length in other texts.
+
+**Belief in Karma**
+
+The term karma (Sanskrit: कर्म; Pali: kamma) refers to both the executed 'deed, work, action, act' and the 'object, intent'.[3]
+
+Wilhelm Halbfass (2000) explains karma (karman) by contrasting it with the Sanskrit word kriya:[3] whereas kriya is the activity along with the steps and effort in action, karma is (1) the executed action as a consequence of that activity, as well as (2) the intention of the actor behind an executed action or a planned action (described by some scholars[10] as metaphysical residue left in the actor). A good action creates good karma, as does good intent. A bad action creates bad karma, as does bad intent.[3]
+
+Difficulty in arriving at a definition of karma arises because of the diversity of views among the schools of Hinduism; some, for example, consider karma and rebirth linked and simultaneously essential, some consider karma but not rebirth to be essential, and a few discuss and conclude karma and rebirth to be flawed fiction.[11] Buddhism and Jainism have their own karma precepts. Thus, karma has not one, but multiple definitions and different meanings.[12] It is a concept whose meaning, importance, and scope varies between the various traditions that originated in India, and various schools in each of these traditions. Wendy O'Flaherty claims that, furthermore, there is an ongoing debate regarding whether karma is a theory, a model, a paradigm, a metaphor, or a metaphysical stance.[13]
+
+The concept of karma is closely associated with the idea of rebirth in many schools of Indian religions (particularly in Hinduism, Buddhism, Jainism, and Sikhism),[6] as well as Taoism.[7] In these schools, karma in the present affects one's future in the current life as well as the nature and quality of future lives—one's saṃsāra.[8][9] This concept has also been adopted in Western popular culture, in which the events that happen after a person's actions may be considered natural consequences of those actions.
+
+**Rebirth**
 
 
 
 
 
-Buddhism: Non-theistic, Four Noble Truths, Eightfold Path, belief in karma and rebirth, Tipitaka as the primary scripture.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Cultural Impacts:
 
