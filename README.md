@@ -295,33 +295,133 @@ Some two million Muslims from around the world went on Hajj in 2015. The 25,000 
 
 Knowing something about the five pillars and their significance for Muslims isn’t just important to correct misunderstandings about what Muslims believe, it is also important in the work environment and for good working relations. For example, Muslim colleagues may request breaks and a space for prayer as well as support whilst fasting during Ramadan or annual leave at the time of the Hajj. These are important issues for all Muslims, and not markers of fundamentalism. Understanding this better can help overcome prejudices about Muslims.
 
+**B. Buddhism and Hinduism**
+
+**Similarities Between Buddhism and Hinduism**
+
+Buddhism and Hinduism share numerous terms and concepts such as: dharma, karma, samadhi, samsara, dhyana, jñana, klesha, nirodha, samskāra, brahmin, brahmacarya, and nirvana.[43]
+
+The Buddha used numerous religious terms which are also used in Hinduism, though he often used them in different and novel ways. Many terms which Buddhism shares with Hinduism carry a different meaning in the Buddhist tradition. For example, in the Samaññaphala Sutta, the Buddha is depicted presenting a notion of the "three knowledges" (tevijja) – a term also used in the Vedic tradition to describe knowledge of the Vedas – as being not texts, but things that he had experienced.[44] The true "three knowledges" are said to be constituted by the process of achieving enlightenment, which is what the Buddha is said to have achieved in the three watches of the night of his enlightenment.[45]
+
+**Karma, rebirth, and samsara**
+
+Karma is a central part of Hindu and Buddhist teachings. Karma is a word meaning action or activity and often implies its subsequent results (also called karma-phala, "the fruits of action"). Karma theory is commonly applied to the ethical realm of cause and effect in both Buddhism and Hinduism. In Buddhism and in Hinduism, a person's words, thoughts and actions form the basis for good and bad karma. Good deeds (good karmas) lead to good karmic results (Sanskrit: karma-phala, the fruits of karma) which can include the circumstances of one's future reincarnation. Likewise, evil actions might result in negative karmic consequences.[46][47]
+
+Thus, the Indian idea of karma is also closely associated with the idea of reincarnation or rebirth.[48] One's karmas in previous lives affect one's present existence, and one's actions in this life will lead to effects in the next life. Both Buddhism and Hinduism accept that living beings are constantly cycling through different bodies and realms of existence, in a repetitive process called saṃsāra (literally "the wandering").[49][50]
+
+**Dharma**
+
+Dharma (Sanskrit, Devanagari: धर्म or Pāli Dhamma) is an Indic term common to all Indian religions. Dharma can mean nature, natural law, reality, teaching, religion or duty, and with respect to its significance for spirituality and religion might be considered the way of the higher truths. A Hindu appellation for Hinduism itself is Sanātana Dharma, which translates as "the eternal dharma". Similarly, Buddha Dharma is a common way that Buddhists refer to Buddhism.
+
+In Hinduism, Dharma can refer generally to religious duty or universal order (similar to rta), and also mean social order, right conduct, or simply virtue. In Buddhism, Dharma can mean the true nature of things or the natural law that the Buddha discovered. It can also refer to the teachings of the Buddha, which explain and reveal this nature.
+
+**Asceticism and monasticism**
+
+Both Buddhism and some forms of Hinduism emphasize the importance of monasticism. In Buddhism, the monastic sangha plays a central role in teaching and passing down the Buddha's Dharma. Monasticism is also seen as an ideal way of life for cultivating the qualities that lead to awakening. In certain sects of Hinduism, the life of the renouncer (sannyasa) is also very important.
+
+**Cosmology and deities**
+
+Buddhist cosmology and Hindu cosmology share many similarities. Both cosmologies are cyclical and both accept that the universe goes through constant cycles of growth and destruction. Both traditions also accept that there are many different realms or worlds (lokas) other than the human realm.[51][52] These include various hell realms and celestial deva realms.
+
+Buddhism and Hinduism share some of the same deities, including:
+
+Saraswati (known as Benzaiten in Japan),
+Vishnu (known as Upulvan in Sri Lanka),
+Shiva (known as Maheśvara in Buddhism)
+Mahākāla (a form of Shiva in Hinduism) is seen as a form of Avalokiteśvara in Mahayana Buddhism
+Indra, Vedic-era Hindu storm god of the Heavens, who is also widely depicted in Buddhist scriptures, see: Śakra
+Ganesh (more widely known as Ganapati in Buddhism)
+Brahma, a key deity in the old Upanishads who is also seen as a protective figure in Buddhism (called Mahabrahma) and also as a class of deities, see: Brahma in Buddhism.[53][54][55]
+Lakshmi (in Japanese Buddhism she is known as Kishijoten)
+Tara is an important Buddhist deity in Tibetan Buddhism. In Hinduism, Tara Devi is one of the ten Mahavidyas.
+The Buddhist text Mahamayuri Tantra, written during the 1–3rd centuries CE, mentions various deities (such as Maheshvara) throughout South Asia, and invokes them for the protection of the Buddhadharma. It also mentions a large number of Vedic rishis.[56]
+
+**Liberation**
+
+Both Buddhism and Hinduism teach a similar goal of liberation or spiritual enlightenment from the cycle of rebirths (samsara). Both religions accept that the escape from the cycle of rebirths or samsara is the highest goal of the spiritual life. In both religions, this liberation is considered the complete end of rebirth or reincarnation. In Hinduism, this liberation may be called moksha, nirvana, or kaivalya; and in Buddhism it may be called vimoksha (Pali: vimokha), nirvana (Pali: nibbana) or bodhi (awakening).[57][58] Both Hinduism and Buddhism use the term Nirvana (or Nibbana in Pali language) for spiritual liberation, which literally means 'blowing out' or 'quenching'. The term is pre-Buddhist, but its etymology is not essentially conclusive for finding out its exact meaning as the highest goal of early Buddhism.[59][60]
+
+Both religions also venerate the liberated beings who have attain the goal of spiritual liberation. Buddhism calls liberated beings either arhats or Buddhas (awakened ones). In Hinduism, liberated beings are commonly called jivanmuktas, though the term nirvana is also used. The term "Buddha" is also used in some Hindu scriptures. In the Vayu Purana for example, the sage Daksha calls Shiva a Buddha.[61]
+
+**What Are the Differences between Christianity and Islam?**
+
+Hinduism is about understanding Brahma, existence, from within the Atman, which roughly means "self" or "soul," whereas Buddhism is about becoming awakened (Buddhi) by recognising, experiencing and validating the four noble truths. In Hinduism, attaining the highest life is a process of removing the bodily distractions from life, allowing one to eventually understand the Brahma nature within. In Buddhism, one follows a disciplined life, meditates, and discards wrong views. In so doing, one either realises peace (Nirvana) or instead becomes a Buddha and continues to liberate all beings from suffering.
+
+Hinduism is Vedic, and Buddhism is non-Vedic. Hinduism is Brahmanical, and Buddhism is non-Brahmanical.
+
+Buddhism, like Jainism and many other Indian traditions are Śramaṇic traditions which originally referred to several non-Brahmanical ascetic religions parallel to but separate from the Vedic religions of India such as Hinduism. The Śramaṇa tradition includes primarily Jainism, Buddhism, and others such as the Ājīvika.
+
+It is a mistake to consider that Hinduism or Buddhism are the progenitor of the other. Buddhism stems from the non-Vedic Śramaṇa, whereas Hinduism remains Vedic but also strongly influenced by the Śramaṇa many traditions.
+
+**Beliefs and Doctrines:**
+
+**Hinduism:** Hinduism is one of the world's oldest religions and is the oldest religion that is still practiced today. The religious tradition of Hinduism is primarily focused on connecting to the supreme god or ultimate reality, known as Brahman, and bettering oneself to escape the cycle of reincarnation. The tradition functions not only as a religion, but the definition of Hinduism also includes combining the beliefs, cultural practices, and philosophy of ancient and modern India. Hinduism is famous for having thousands of deities, both gods and goddesses, but most Hindus believe that all of the deities are manifestations of Brahman. In the 21st century, Hinduism is considered the third most-practiced religion in the world, following Christianity and Islam. It is especially common in India, the area where it originated, as 94% of the world's Hindu population resides there. It is also widely practiced in Nepal and Bangladesh.
+
+**Polytheism**
+
+The word "polytheism" stems from the Greek words "polys" and "theos," which mean "multiple" and "god" respectively.
+
+How did polytheism come to exist, one might ask? Well, examine the people of ancient societies and imagine how they sought to understand the natural world. What makes the rain come down from the clouds? How does the village ensure that there is enough food for the winter months? What are the bright dots in the sky at night? People naturally seek to understand their environment and come up with reasons as to why and how events occur. Lacking modern scientific understanding of cause and effect, people attributed natural phenomena to supreme beings known as deities or gods/goddesses. Given that there have been polytheistic societies from all over the world, dating thousands of years old, the development of religion can be presumed a natural human characteristic. The desire to understand the world is strong! Herein exists a plethora of examples from around the world, both past and present, which provide a glimpse into what it means to be polytheistic.
+
+**Concepts of Karma**
+
+Karma, in Indian religion and philosophy, the universal causal law by which good or bad actions determine the future modes of an individual’s existence. Karma represents the ethical dimension of the process of rebirth (samsara), belief in which is generally shared among the religious traditions of India. Indian soteriologies (theories of salvation) posit that future births and life situations will be conditioned by actions performed during one’s present life—which itself has been conditioned by the accumulated effects of actions performed in previous lives. The doctrine of karma thus directs adherents of Indian religions toward their common goal: release (moksha) from the cycle of birth and death. Karma thus serves two main functions within Indian moral philosophy: it provides the major motivation to live a moral life, and it serves as the primary explanation of the existence of evil.
+
+Derived from the Sanskrit word karman, meaning “act,” the term karma carried no ethical significance in its earliest specialized usage. In ancient texts (1000–700 bce) of the Vedic religion, karma referred simply to ritual and sacrificial action. As the priestly theology of sacrifice was articulated by Brahman priests over the following centuries, however, ritual action came to be regarded as effective by itself, independent of the gods. Karma as ritual functioned autonomously and according to a cosmic ritual law.
+
+The doctrine of karma implies that one person’s karma cannot have an effect on another person’s future. Yet, while karma is in theory specific to each individual, many aspects of Indian religions reflect the widely held belief that karma may be shared. For example, the doctrine of the transfer of merit, whereby one person can transfer his good karma to another, is found in both Buddhism and Hinduism. Ancestral offerings and other rituals for the departed show that acts done by the living are believed to influence the well-being of the dead. Finally, pious activities, including pilgrimages, are often performed for the benefit of living or deceased relatives.
+
+**Dharma**
+
+The concept of dharma was in use in the historical Vedic religion (1500–500 BCE), and its meaning and conceptual scope has evolved over several millennia. In Hinduism, dharma denotes behaviours that are considered to be in accord with Ṛta—the "order and custom" that makes life and universe possible.[note 1] This includes duties, rights, laws, conduct, virtues and "right way of living". Dharma is believed to have a transtemporal validity, and is one of the Puruṣārtha.
+
+In Buddhism, dharma (Pali: dhamma) refers to the teachings of the Buddha. In Buddhist philosophy, dhamma/dharma is also the term for "phenomena".[note 2] Dharma in Jainism refers to the teachings of Tirthankara (Jina) and the body of doctrine pertaining to the purification and moral transformation of humans. In Sikhism, dharma indicates the path of righteousness, proper religious practices, and performing one's own moral duties.
+
+As with the other components of the Puruṣārtha, the concept of dharma is pan-Indian. The ancient Tamil text Tirukkuṟaḷ, despite being a collection of aphoristic teachings on dharma (aram), artha (porul), and kama (inpam), is completely and exclusively based on aṟam—the Tamil term for dharma.
+
+**Moksha and Samsara**
+
+To understand moksha, which means 'liberation,' one must first understand several other important ideas in Hinduism - particularly, samsara. Samsara is a Sanskrit word that refers to the cycle of birth, death, and rebirth, to the passing of the soul from one life to another. As the soul transitions between these lives, the next incarnation is informed by the deeds of the previous life. This is the Hindu belief of the concept of karma. You may have heard people talk about karma and the idea that people's choices will come back to affect them one way or another in the future. The Hindu concept of karma is similar to the popular use, but a person's responsibility for her/his actions, good or bad, is dealt with in the next life, not the current one.
+
+The end of the cycle of birth, death, and rebirth (samsara) is the ultimate point of existence in Hinduism. There are four goals, collectively called purusartha, aimed at achieving samsara, with the fourth of these being the ultimate goal of obtaining moksha. As people move through the first three goals (dharma, artha, and kama), they release attachments to worldly possessions and desires, leading to the goal of achieving moksha. Sound familiar? The Hindu concept of moksha is similar to the Buddhist concept of nirvana.
+
+A visual representation of the concept of moksha can be seen in this Hindu painting which shows the elephant Gajendra experiencing moksha. Instead of focusing on the suffering from the crocodile biting his leg, he focuses on Vishnu, who liberates him.
+
+**Caste System**
+
+The origin of the caste system is not known with certainty. Hindus maintain that the proliferation of the castes (jatis, literally “births”) was the result of intermarriage (which is prohibited in Hindu works on dharma), which led to the subdivision of the four classes, or varnas. Modern theorists, however, assume that castes arose from differences in family ritual practices, racial distinctions, and occupational differentiation and specialization. Scholars also doubt whether the simple varna system was ever more than a theoretical socioreligious ideal and have emphasized that the highly complex division of Hindu society into nearly 3,000 castes and subcastes was probably in place even in ancient times.
+
+In general, a caste is an endogamous hereditary group of families bearing a common name, often claiming a common descent, as a rule professing to follow the same hereditary calling, adhering to the same customs—especially regarding purity, meals, and marriages—and often further divided into smaller endogamous circles. Moreover, tribes, guilds, or religious communities characterized by particular customs—for example, the Lingayats—could easily be regarded as castes. The status of castes varies in different localities. Although social mobility is possible, the mutual relationship of castes is hierarchically determined: local Brahman groups occupy the highest place, and differences in ritual purity are the main criteria of position in the hierarchy. Most impure are the so-called “untouchables,” officially designated as Scheduled Castes in the constitution of modern India. Many Scheduled Caste groups now prefer the name Dalit (“Crushed” or “Oppressed”). Among the Scheduled Castes, however, there are numerous subdivisions, each of which regards itself as superior to others.
+
+Traditional Hindus maintain that the ritual impurity and “untouchability” inherent in these groups does not essentially differ from that temporarily associated with mourners or menstruating women. This, and the fact that some exterior group or other might rise in estimation and become an interior one or that individual outcastes might be well-to-do, does not alter the fact that there was social discrimination. The Scheduled Castes were subjected to various socioreligious disabilities before mitigating tendencies helped bring about reform. After independence, social discrimination was prohibited, and the practice of preventing access to religious, occupational, or civil rights on the grounds of untouchability was made a punishable offense. Despite these prohibitions, Scheduled Castes were sometimes barred from the use of temples and other religious institutions and from public schools.
+
+From the traditional Hindu point of view, this social system is the necessary complement of the principles of dharma, karma, and samsara. Corresponding to hells and heavenly regions in the hereafter, the castes are the mundane social frame within which karma is manifested and worked out. 
+   
+**Vedas and Upanishads**
+    
+ With the last component of the Vedas, the philosophically oriented and esoteric texts known as the Upanishads (traditionally “sitting near a teacher” but originally understood as “connection” or “equivalence”), Vedic ritualism and the doctrine of the interconnectedness of separate phenomena were superseded by a new emphasis on knowledge alone—primarily knowledge of the ultimate identity of all phenomena, which merely appeared to be separate. The beginnings of philosophy and mysticism in Indian religious history occurred during the period of the compilation of the Upanishads, roughly between 700 and 500 bce. Historically, the most important of the Upanishads are the two oldest, the Brihadaranyaka (“Great Forest Text”; c. 10th–5th century bce) and the Chandogya (pertaining to the Chandogas, priests who intone hymns at sacrifices), both of which are compilations that record the traditions of sages (rishis) of the period—notably Yajnavalkya, who was a pioneer of new religious ideas.   
+    
+ The Upanishads reveal the desire to obtain the mystical knowledge that ensures freedom from “re-death” (punarmrityu), or birth and death in a new existence. Throughout the later Vedic period, the idea that the world of heaven is not the end of existence—and that even in heaven death is inevitable—became increasingly common. Vedic thinkers became concerned about the impermanence of religious merit and its loss in the hereafter, as well as about the transience of any form of existence after death—an existence that would culminate in re-death. The means of escaping and conquering death devised in the Brahmanas were of a ritual nature, but one of the oldest Upanishads, the Brihadaranyaka Upanishad, emphasizes the knowledge of the cosmic connection underlying ritual. When the doctrine of the identity of atman (the self) and brahman (the Absolute) was established in the Upanishads, those sages who were inclined to meditative thought substituted the true knowledge of the self and the realization of this identity for the ritual method.
+
+This theme of the quest for a supreme unifying truth, for the reality underlying existence, is exemplified in the question posed by the seeker in the Mundaka Upanishad: “What is it that, by being known, all else becomes known?” What is sought is an experiential knowledge that is different from the “lower” knowledge that can be conceptualized and articulated by human beings. Thus, the supreme truth is understood as ineffable. The Taittiriya Upanishad says that brahman is this ineffable truth; brahman is also truth (satya), knowledge (jnana), infinity (ananta), consciousness (chit), and bliss (ananda). Other Upanishads describe brahman as the hidden, inner controller of the human soul. The experiential knowledge of the relationship between the human soul (atman) and the supreme being (brahman) is said to bring an end to the cycle of birth, death, and rebirth. To know brahman is to know all; in knowing brahman, one achieves a transcendental consciousness that comprehends, in some measure, the unity of the universe and the deep connection between the soul and brahman.
+
+In subsequent centuries the main theories concerned with the divine essence underlying the world were harmonized and synthetically combined. The tendency of these theories was to extol one god as the supreme lord and originator (Ishvara)—at once Purusha and Prajapati and brahman and the self of all beings. For those who worshipped him, he was the goal of identificatory meditation, which leads to complete cessation of phenomenal existence and becomes the refuge of those who seek eternal peace. The Advaita Vedanta philosopher and theologian Shankara (8th century ce) exercised enormous influence on subsequent Hindu thinking through his elegant synthesis of the nontheistic and theistic aspects of Upanishadic teaching. In his commentaries on several of the Upanishads, he distinguished between nirguna brahman (without attributes) and saguna brahman (with attributes). His was a monistic teaching that stressed that saguna brahman was a lesser, temporary form of nirguna brahman. He taught also that the self (atman) is identical with nirguna brahman and that through knowledge of this unity the cycle of rebirth can be broken.   
+
+The Upanishads were composed during a time of much social, political, and economic upheaval. Rural tribal society was disappearing, and the adjustments of the people to urban living under a monarchy probably provoked many psychological and religious responses. During this period many groups of mystics, world renouncers, and forest dwellers appeared in India, among whom were the authors of the Upanishads. The most important practices and doctrines of these world renouncers included asceticism and the concept of rebirth, or transmigration.
+
+The Rigveda contains few examples of asceticism, except among the “silent ones” (munis). The Atharvaveda describes another class of religious adepts, or specialists, the vratyas, particularly associated with the region of Magadha (west-central Bihar). The vratya was a wandering hierophant (one who manifested the holy) who remained outside the system of Vedic religion. He practiced flagellation and other forms of self-mortification and traveled from place to place in a bullock cart with an apprentice and with a woman who appears to have engaged in ritual prostitution. The Brahmans sought to bring the vratyas into the Vedic system by special conversion rituals, and it may be that the vratyas introduced their own beliefs and practices into Vedic religion. At the same time, the more-complex sacrifices of the later Vedic period demanded purificatory rituals, such as fasting and vigil, as part of the preparations for the ceremony. Thus, there was a growing tendency toward the mortification of the flesh.
+
+The origin and development of the belief in transmigration of souls are very obscure. A few passages suggest that this doctrine was known even in the days of the Rigveda, and the Brahmanas often refer to doctrines of re-death and rebirth, but it was first clearly propounded in the earliest Upanishad—the Brihadaranyka. There it is stated that the soul of a Vedic sacrificer returns to earth and is reborn in human or animal form. This doctrine of samsara (reincarnation) is attributed to the sage Uddalaka Aruni, who is said to have learned it from a Kshatriya chief. In the same text, the doctrine of karma (“actions”), according to which the soul achieves a happy or unhappy rebirth according to its works in the previous life, occurs for the first time and is attributed to the theologian Yajnavalkya. Both doctrines seem to have been new, circulating among small groups of ascetics who were disinclined to make them public, perhaps for fear of the orthodox priests. These doctrines must have spread rapidly, for they appear in the later Upanishads and in the earliest Buddhist and Jain scriptures.
+    
+    
+    
+    
+    
+    
+    
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-B. Buddhism and Hinduism
-
-Beliefs and Doctrines:
-
-Hinduism: Polytheism, concepts of karma, dharma, moksha, caste system, Vedas and Upanishads as sacred texts.
 
 Buddhism: Non-theistic, Four Noble Truths, Eightfold Path, belief in karma and rebirth, Tipitaka as the primary scripture.
 
@@ -349,11 +449,11 @@ Cultural Impacts:
 
 Judaism’s impact on ethics, law, and identity in Western societies.
 
-Sikhism’s emphasis on community service, equality, and its distinct cultural identity in India and the diaspora.
+Sikhism’s emphasis on community service, equality, and its distinct culturaaity in India and the diaspora.
 
 Rituals and Practices:
 
-Judaism: Observance of the Sabbath, dietary laws (Kosher), festivals (e.g., Passover, Yom Kippur), prayer.
+Judaism: Observance of  laws (Kosher), festivals (e.g., Passover, Yom Kippur), prayer.
 
 Sikhism: Daily prayers, community service (seva), wearing the Five Ks (Kesh, Kara, Kanga, Kachera, Kirpan), and festivals like Vaisakhi.
 
