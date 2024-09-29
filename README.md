@@ -163,7 +163,7 @@ For us in twenty-first century America, it is difficult to imagine rule of man b
 
 Our government and justice system is a privileged one based solely on our Judeo-Christian heritage. If we ignore our history, we do so at our own peril.
 
-**Islam's Contributions To Science** , mathematics, art, architecture, and legal systems in the Middle East and beyond.
+**Islam's Contributions To Science** 
 
 Al-Jahiz (776-869) of Basra wrote the seven volumes of “Book of Animals”, which includes poetic descriptions and proverbs of over 350 varieties of animals. In this work, Al-Jahiz made observations describing evolution such as: 
 
@@ -214,12 +214,86 @@ For the most part, however, Goethe’s statement that the stories of The Thousan
 
 The accumulation of large amounts of material, which is carefully organized up to the present, seems typical of all branches of Islamic scholarship, from theology to natural sciences. There are many minute observations and descriptions but rarely a full view of the whole process. Later, especially in the Persian, Turkish, and Indo-Muslim areas, a tendency to overstress the decorative elements of prose is evident, and the contents even of official chronicles are hidden behind a network of rhymed prose, which is often difficult to disentangle.
 
-**Islam's Contribution To Architecture**
+ **Islam's Contribution To Architecture**
 
 **The Advent of Islamic Architecture**
 
 The 7th century CE marked a turning point in the Islamic architecture history of the Arabian Peninsula, with the emergence of a religion that would come to shape the region’s artistic and cultural traditions. Born in the bustling city of Mecca (Makkah), Islam was founded by a merchant named Muhammad. As Muhammad's teachings began to spread throughout the Middle East, North Africa, and Southern Europe, the impact of this new religion was profound. Islamic culture began to flourish, with centres of learning emerging across the region, devoted to subjects ranging from philosophy and astronomy to medicine and the arts. But it was in the realm of architecture that the influence of Islam was perhaps most keenly felt.
 
+Islamic architecture comprises the architectural styles of buildings associated with Islam. It encompasses both secular and religious styles from the early history of Islam to the present day. The Islamic world encompasses a wide geographic area historically ranging from western Africa and Europe to eastern Asia. Certain commonalities are shared by Islamic architectural styles across all these regions, but over time different regions developed their own styles according to local materials and techniques, local dynasties and patrons, different regional centers of artistic production, and sometimes different religious affiliations.[1][2]
+
+Early Islamic architecture was influenced by Roman, Byzantine, Iranian, and Mesopotamian architecture and all other lands which the early Muslim conquests conquered in the seventh and eighth centuries.[3][4][5][6][7] Later it developed distinct characteristics in the form of buildings and in the decoration of surfaces with Islamic calligraphy, arabesques, and geometric motifs.[8] New architectural elements like minarets, muqarnas, and multifoil arches were invented. Common or important types of buildings in Islamic architecture include mosques, madrasas, tombs, palaces, hammams (public baths), Sufi hospices (e.g. khanqahs or zawiyas), fountains and sabils, commercial buildings (e.g. caravanserais and bazaars), and military fortifications.[2]
+
+**Islam's Contribution To Legal Systems**
+
+This chapter turns to a very different legal tradition, that of Islamic law. Stemming from a religious origin and encompassing not only traditional legal rules but also rules concerning the living of a moral life, the Shari'a provides a different legal culture and set of legal institutions than are found in the common and civil law traditions. To highlight the unique characteristics of the Islamic legal tradition, this chapter considers the development of the legal traditions of Egypt and Saudi Arabia. While both states are within the Islamic legal tradition, Egypt and Saudi Arabia belong to different schools of Islamic jurisprudence, which results in different legal culture and institutions, and differing policies toward international law. This chapter emphasizes the important role that cultural factors such as ties to religion can play in influencing the policies states adopt towards international law, and also considers the realities of contemporary politics.
+
+Many people in the West tend to think of a progressive and rational West in stark contrast to a backward and stagnant Muslim world. In addition, the West is frequently assumed to have developed autonomously as a result of its own unique features. Yet, the relationship between the West and the Muslim world is far more complex than at first appears. Their histories have been marked by numerous exchanges. Those in the areas of architecture, science, philosophy and trade are being increasingly studied in the West,1 although they remain little known among the general public. Less well-documented and even less well-known outside specific academic circles is the possible influence of Islamic legal institutions on those of the West. However, if some important European legal institutions that emerged in the early Middle Ages have at least some Islamic origins, this area of transmission and reception has potentially important implications for understanding the emergence of the modern state and governance in Europe. Indeed, it would cast another light on the establishment of a rule of law and the development of an impersonal state, which, in turn, contributed to the breakdown of feudal relations and, later, to the emergence of capitalism in Europe.
+
+**Rituals and Practices:**
+
+**Christianity:** In Christian belief and practice, a sacrament is a rite, instituted by Christ that mediates grace, constituting a sacred mystery. The term is derived from the Latin word sacramentum , which was used to translate the Greek word for “mystery.” Views concerning both “what rites are sacramental,” and “what it means for an act to be a sacrament” vary among Christian denominations and traditions.
+
+**Eschaton**
+
+The end of things, whether the end of an individual life, the end of the age, or the end of the world, broadly speaking is Christian eschatology — the study of the destiny of humans as it is revealed in the Bible.
+
+The major issues in Christian eschatology are the Tribulation, death and the afterlife, the Rapture, the Second Coming of Jesus, Resurrection of the Dead, Heaven and Hell, Millennialism, the Last Judgment, the end of the world, and the New Heavens and New Earth.
+
+Christians believe that the second coming of Christ will occur at the end of time after a period of severe persecution (theGreat Tribulation ). All who have died will be resurrected bodily from the dead for the Last Judgment. Jesus will fully establish the Kingdom of God in fulfillment of scriptural prophecies.
+
+The most conventional functional definition of a sacrament is that it is an outward sign, instituted by Christ, that conveys an inward, spiritual grace through Christ. The two most widely accepted sacraments are Baptism and the Eucharist (or Holy Communion), however, the majority of Christians also recognize five additional sacraments: Confirmation(Chrismation in the Orthodox tradition), Holy Orders, Confession, Anointing of the Sick , and Matrimony . Taken together, these are the Seven Sacraments , as recognized by churches in the High Church tradition—notably Roman Catholic, Eastern Orthodox, Oriental Orthodox, Independent Catholic, Old Catholic, most Anglicans, and some Lutherans. Most other denominations and traditions typically affirm only Baptism and Eucharist as sacraments, while some Protestant groups, such as the Quakers, reject sacramental theology. Most Protestant Christian denominations that believe these rites do not communicate grace prefer to call them ordinances.
+
+**Rituals and Rites**
+
+Liturgical Calendar
+
+Roman Catholics, Anglicans, Eastern Christians, and traditional Protestant communities frame worship around a liturgical calendar. This includes holy days, such as solemnities , which commemorate an event in the life of Jesus or the saints, periods of fasting such as Lent , and other pious events, such as memoria or lesser festivals commemorating saints.
+
+Christian groups that do not follow a liturgical tradition often retain certain celebrations, such as Christmas, Easter, and Pentecost. A few churches make no use of a liturgical calendar.
+
+**Baptism**
+
+This is a mosaic of the Baptism of Christ in Jordan. In the center is Christ our Saviour in the river Jordan. On a rock stands John the Baptist, in his left hand is a bent rod, and his right hand holds a patera, shell; from which he pours water on the head of the Redeemer; over whom descends the dove, the symbol of the Holy Ghost, with expanded wings, and emitting rays of glory and grace.
+
+Baptism is the ritual act, with the use of water, by which a person is admitted to membership of the Church. Beliefs on baptism vary among denominations.
+
+Firstly, differences occur on whether the act has any spiritual significance . Some churches hold to the doctrine ofBaptismal Regeneration , which affirms that baptism creates or strengthens a person’s faith, and is intimately linked to salvation. This view is held by Catholic and Eastern Orthodox churches, as well as Lutherans and Anglicans, while others simply acknowledge it as a purely symbolic act, an external public declaration of the inward change which has taken place in the person.
+
+Secondly, there are differences of opinion on the methodology of the act . These methods being: Baptism by Immersion; if immersion is total, Baptism by Submersion; and Baptism by Affusion (pouring), and Baptism by Aspersion (sprinkling). Those who hold the first view may also adhere to the tradition of Infant Baptism.
+
+**Prayer**
+
+Jesus’ teaching on prayer in the Sermon on the Mount displays a distinct lack of interest in the external aspects of prayer. A concern with the techniques of prayer is condemned as ‘pagan,’ and instead a simple trust in God’s fatherly goodness is encouraged [Mat. 6:5–15]. Elsewhere in the New Testament this same freedom of access to God is also emphasized [Phil. 4:6] and [Jam. 5:13–19]. This confident position should be understood in light of Christian belief in the unique relationship between the believer and Christ through the indwelling of the Holy Spirit.
+
+In subsequent Christian traditions, certain physical gestures are emphasized, including medieval gestures, such as genuflection or making the sign of the cross. Kneeling, bowing and prostrations are often practiced in more traditional branches of Christianity. Frequently in Western Christianity the hands are placed palms together and forward as in the feudal commendation ceremony. At other times the older orant posture may be used, with palms up and elbows in.
+
+**Intercessory Prayer**
+
+Intercessory prayer is prayer offered for the benefit of other people. There are many intercessory prayers recorded in the Bible, including prayers of the Apostle Peter on behalf of sick persons [Acts 9:40] and by prophets of the Old Testament in favor of other people [1Ki 17:19–22]. In the New Testament book of James no distinction is made between the intercessory prayer offered by ordinary believers and the prominent Old Testament prophet Elijah [Jam 5:16–18]. The effectiveness of prayer in Christianity derives from the power of God rather than the status of the one praying.
+
+The ancient church, in both Eastern Christianity and Western Christianity, developed a tradition of asking for the intercession of (deceased) saints, and this remains the practice of most Eastern Orthodox, Oriental Orthodox, Roman Catholic, and some Anglican churches. Churches of the Protestant Reformation however rejected prayer to the saints, largely on the basis of the sole mediatorship of Christ. The reformer, Huldrych Zwingli, admitted that he had offered prayers to the saints until his reading of the Bible convinced him that this was idolatrous. (43)
+
+
+**Islam:** The Five Pillars (Shahada, Salat, Zakat, Sawm, Hajj), Friday prayers, observance of Ramadan and Eid festivals.
+The five pillars – the declaration of faith (shahada), prayer (salah), alms-giving (zakat), fasting (sawm) and pilgrimage (hajj) – constitute the basic norms of Islamic practice. They are accepted by Muslims globally irrespective of ethnic, regional or sectarian differences.
+
+Upholding the pillars is considered obligatory for all sincere followers of the Prophet Muhammad, male and female, Sunni and Shi‘a, but that doesn’t mean that all those who identify as Muslims keep them consistently. As in all religions, circumstances vary and some people are more committed than others. Such things as age, stage of life, work, family responsibilities, health and wealth all make a difference.
+
+**The pillars**
+The Shahada is the fundamental statement of faith and commitment made by Muslims: “There is no God but God (Allah), and Muhammad is His Messenger.” It distinguishes Muslims from those of other faiths. The Shahada is perhaps better known in the West as the Arabic phrase on the flags of ISIS, al-Shabaab and Boko Haram. However, the Shahada is by no means the preserve of violent groups, in fact reciting it three times in front of witnesses is a requirement of becoming a Muslim.
+
+**Salah** is the ritual prayer of Islam through which all Muslims conform to the will of Allah. Prayer is performed in the direction of Mecca five times a day. Friday is set aside as the day for congregational prayer (Jum’a). The ready knowledge that large numbers of Muslims will be gathered together for communal prayer has frequently been exploited by terrorist networks such as Islamic State. In 2015 and 2016, Shi‘a mosques were bombed in Kuwait, Yemen, Saudi Arabia and Iraq. Boko Haram has also attacked mosques in northern Nigeria. Places of worship full of people at prayer represent easy symbolic targets for suicide bombers, where maximum damage and loss of life can be achieved.
+
+The term **zakat** refers to the obligatory donation of a portion of a Muslim’s surplus wealth. Islamic charities encourage donors to use their services to relieve suffering and to help refugees, victims of environmental disasters, the urban poor and those in conflict zones and in recent years relief has been provided in Gaza, Syria, Yemen and Iraq. Whilst the majority of charities operate within the law, some have been banned following allegations that they have used their resources to fund terrorist activities.
+
+**Sawm** – Muslims are expected to fast during Ramadan – the ninth month in the Islamic calendar. During daylight hours (which vary depending on the time of year in which Ramadan falls), they abstain from food and drink, sexual activity and smoking, breaking the fast with a meal after sunset. Those who are elderly, ill, pregnant or breast-feeding are exempt, and children are not required to participate.
+
+Completing the **Hajj**, the pilgrimage to Mecca, is a duty that every Muslim should perform during their lifetime. All pilgrims should be in good physical and spiritual health before they make the journey. Whilst in Mecca, they complete a series of individual and collective actions on the various days of their visit, following a pattern set by Muhammad.
+
+Some two million Muslims from around the world went on Hajj in 2015. The 25,000 pilgrims who travelled from the UK joined thousands of Muslims from many other countries, all performing the same rituals irrespective of their many differences.
+
+Knowing something about the five pillars and their significance for Muslims isn’t just important to correct misunderstandings about what Muslims believe, it is also important in the work environment and for good working relations. For example, Muslim colleagues may request breaks and a space for prayer as well as support whilst fasting during Ramadan or annual leave at the time of the Hajj. These are important issues for all Muslims, and not markers of fundamentalism. Understanding this better can help overcome prejudices about Muslims.
 
 
 
@@ -242,22 +316,6 @@ The 7th century CE marked a turning point in the Islamic architecture history of
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-Rituals and Practices:
-
-Christianity: Sacraments (e.g., baptism, Eucharist), regular Sunday worship, holidays like Christmas and Easter.
-
-Islam: The Five Pillars (Shahada, Salat, Zakat, Sawm, Hajj), Friday prayers, observance of Ramadan and Eid festivals.
 
 B. Buddhism and Hinduism
 
