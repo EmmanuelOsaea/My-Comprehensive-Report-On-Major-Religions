@@ -549,11 +549,11 @@ Buddhist monasticism is one of the earliest surviving forms of organized monasti
 
 **C. Judaism and Sikhism**
 
-**Beliefs and Doctrines:**
+**Beliefs and Doctrines**
 
-**Judaism:**
+**Judaism**
 
-**The history of Judaism**
+**The History of Judaism**
 
 It is history that provides the key to an understanding of Judaism, for its primal affirmations appear in early historical narratives. Thus, the Bible reports contemporary events and activities for essentially religious reasons. The biblical authors believed that the divine presence is encountered primarily within history. God’s presence is also experienced within the natural realm, but the more immediate or intimate disclosure occurs in human actions. Although other ancient communities also perceived a divine presence in history, the understanding of the ancient Israelites proved to be the most lasting and influential. It is this particular claim—to have experienced God’s presence in human events—and its subsequent development that is the differentiating factor in Jewish thought.
 
@@ -567,9 +567,7 @@ History, moreover, disclosed not only God’s purpose but also humankind’s ina
 History and doctrine
 Sikh in Punjabi means “learner,” and those who joined the Sikh community, or Panth (“Path”), were people who sought spiritual guidance. Sikhs claim that their tradition has always been separate from Hinduism. Nevertheless, many Western scholars argue that in its earliest stage Sikhism was a movement within the Hindu tradition; Nanak, they point out, was raised a Hindu and eventually belonged to the Sant tradition of northern India, a movement associated with the great poet and mystic Kabir (1440–1518). The Sants, most of whom were poor, dispossessed, and illiterate, composed hymns of great beauty expressing their experience of the divine, which they saw in all things. Their tradition drew heavily on the Vaishnava bhakti (the devotional movement within the Hindu tradition that worships the god Vishnu), though there were important differences between the two. Like the followers of bhakti, the Sants believed that devotion to God is essential to liberation from the cycle of rebirth in which all human beings are trapped; unlike the followers of bhakti, however, the Sants maintained that God is nirgun (“without form”) and not sagun (“with form”). For the Sants, God can be neither incarnated nor represented in concrete terms.
 
-**Cultural Impacts:**
-
-Judaism’s impact on ethics, law, and identity in Western societies.
+**Cultural Impacts**
 
 The formulation of Jewish ethical doctrines
 The ethical concerns of Judaism have frequently been expressed in literary works. Not only were rabbinic writings constantly directed toward the establishment of legal patterns that embody such concerns, but in the medieval period the issues were dealt with in treatises on morals; in ethical wills, in which a father instructed his children about their obligations and behaviour; in sermons; and in other forms. In the 19th century the traditionalist Musar (“Moral Instructor”) movement in eastern Europe and the philosophical discussions of the nascent Reform movement in the West focused upon ethics. Indeed, since the political and social emancipation of the Jews, ethical and social rather than theological questions have been given priority. Often the positions espoused have turned out to be “Judaized” versions of ethical theories or political programs. In some instances, as in the case of the distinguished German Jewish philosopher Hermann Cohen (1842–1918), the result has been a compelling restatement of a secular philosophical ethics in Jewish form. In others it has resulted in no more than a pastiche. More crucial, however, is the question of the uniqueness and authority of Jewish ethics. The reestablishment of the Jewish state renewed the possibility that the full range of ethical decisions, communal and individual, may be confronted. In such a situation the ethical task of the people moves out of the realm of speculation to become actual again.
@@ -579,7 +577,7 @@ The ethical concerns of Judaism have frequently been expressed in literary works
 
 Sikh in Punjabi means “learner,” and those who joined the Sikh community, or Panth (“Path”), were people who sought spiritual guidance. Sikhs claim that their tradition has always been separate from Hinduism. Nevertheless, many Western scholars argue that in its earliest stage Sikhism was a movement within the Hindu tradition; Nanak, they point out, was raised a Hindu and eventually belonged to the Sant tradition of northern India, a movement associated with the great poet and mystic Kabir (1440–1518). The Sants, most of whom were poor, dispossessed, and illiterate, composed hymns of great beauty expressing their experience of the divine, which they saw in all things. Their tradition drew heavily on the Vaishnava bhakti (the devotional movement within the Hindu tradition that worships the god Vishnu), though there were important differences between the two. Like the followers of bhakti, the Sants believed that devotion to God is essential to liberation from the cycle of rebirth in which all human beings are trapped; unlike the followers of bhakti, however, the Sants maintained that God is nirgun (“without form”) and not sagun (“with form”). For the Sants, God can be neither incarnated nor represented in concrete terms.
 
-**Rituals and Practices:**
+**Rituals and Practices**
 
 **Judaism:** Observance of  laws (Kosher), festivals (e.g., Passover, Yom Kippur), prayer.
 The traditional pattern of an individual’s life can be discerned by examining a passage from the Babylonian Talmud (tractate Berakhot 60b) that was reworked into a liturgical structure but which in its original form exhibits the intention discussed above. In this passage, the blessings accompanying one’s waking and returning to the routines of life are prescribed. There is a brief thanksgiving on awakening for being restored to conscious life; then a benediction is offered over the cock’s crowing; following this, each ordinary act—opening one’s eyes, stretching and sitting up, dressing, standing up, walking, tying one’s shoes, fastening one’s belt, covering one’s head, washing one’s hands and face—has its accompanying blessing, reminding one that the world and the life to which he has returned exist in the presence of God. These are followed by a supplication in which the petitioner asks that his life during the day may be worthy in all of its relationships. Then, as the first order of daily business, Torah, both written (Bible) and oral (Mishna), is briefly studied, introduced by doxologies to God as Giver of Torah. Finally, there is a prayer for the establishment of the kingdom of God, for each day contains within itself the possibility of ultimate fulfillment. As indicated, this was originally not a part of public worship but rather was personal preparation for a life to be lived in the presence of God (even today it is not, strictly speaking, part of the synagogue service, though it is frequently recited there).
@@ -604,7 +602,7 @@ Zoroastrianism: One of the world's oldest monotheistic religions, influence on 
 
 **5. Conclusion**
 
-**Summary of Findings:** Highlight the main similarities and differences.
+**Summary of Findings** 
 
 **Similarities**
 
