@@ -416,7 +416,7 @@ The origin and development of the belief in transmigration of souls are very obs
 
 Ancient Buddhist scripture and doctrine developed in several closely related literary languages of ancient India, especially in Pali and Sanskrit. In this article Pali and Sanskrit words that have gained currency in English are treated as English words and are rendered in the form in which they appear in English-language dictionaries. Exceptions occur in special circumstances—as, for example, in the case of the Sanskrit term dharma (Pali: dhamma), which has meanings that are not usually associated with the term dharma as it is often used in English. Pali forms are given in the sections on the core teachings of early Buddhism that are reconstructed primarily from Pali texts and in sections that deal with Buddhist traditions in which the primary sacred language is Pali. Sanskrit forms are given in the sections that deal with Buddhist traditions whose primary sacred language is Sanskrit and in other sections that deal with traditions whose primary sacred texts were translated from Sanskrit into a Central or East Asian language such as Tibetan or Chinese.
 
-**Non-theistic**  belief in karma and rebirth, Tipitaka as the primary scripture.
+**Non-theistic**  
 
 While some Buddhists believe in deities, Buddhism is usually considered a nontheistic religion because the main focus is on following a moral and ethical code outlined by the Eight-Fold Path. Some Buddhists believe in and worship deities, but the Buddha, Siddhartha Gautama, is not considered a deity because he was simply the guru who helped teach about the truth for finding enlightenment.
 
@@ -447,31 +447,78 @@ The concept of karma is closely associated with the idea of rebirth in many scho
 
 **Rebirth**
 
+Buddhists believe that when someone dies, they will be reborn again as something else. What they are reborn as depends on their actions in their previous life (kamma
+). The cycle of rebirth is called samsara and it is an ongoing cycle of life, death and rebirth.
+Humans go through an unknown number of cycles of rebirth over many lifetimes. Skilful actions lead to a good rebirth and unskilful actions lead to a bad rebirth. Through doing skilful actions in their life, a person can be reborn into one of the six realms:
+
+**1** the realm of the gods
+
+**2** the realm of the angry gods
+
+**3** the realm of the animals
+
+**4** the realm of the tormented beings
+
+**5** the realm of the hungry ghosts
+
+**6** the realm of humans
+
+Buddhists believe that the human realm is the best one to be in if they want to reach 
+enlightenment. If they gain good kamma and follow the teachings of the Buddha, they will be reborn into a more preferable realm.
+
+**Tipitaka**
+
+Tipiṭaka (Pali: [tɪˈpɪʈɐkɐ]) or Tripiṭaka (Sanskrit: [trɪˈpɪʈɐkɐ]) , meaning "Triple Basket",[1] is the traditional term for ancient collections of Buddhist sacred scriptures.[1][2][3][4] The Tripiṭaka is composed of three main categories of texts that collectively constitute the Buddhist canon: the Vinaya Piṭaka, the Sutta Piṭaka, and the Abhidhamma Piṭaka.[5]
+
+The Pāli Canon maintained by the Theravāda tradition in Southeast Asia, the Chinese Buddhist Canon maintained by the East Asian Buddhist tradition, and the Tibetan Buddhist Canon maintained by the Tibetan Buddhist tradition are some of the most important Tripiṭaka in contemporary Buddhist world.[2]
+
+Tripiṭaka has become a term used for many schools' collections, although their general divisions do not match a strict division into three pitakas.
+
+**Cultural Impacts:**
+
+**Hinduism’s role in Shaping Indian art** 
+
+Much Indian art illustrates the gods and spiritual figures of three major religions that developed in India. Hinduism, Buddhism, and Jainism all teach their stories to the faithful through images.
+
+In all three traditions, believers worship independently rather than gathered as a congregation. Works of art are the focus of their worship. With proper ritual care, some images and structures become a home for the deity itself. The more decoration at a temple or shrine, the more pleased the god honored there will be.
+
+Art also helps worshippers imagine the world beyond the one they know. All three religions teach that the physical world is just an illusion. Studying an image can help one learn truths that cannot be grasped in the world we know. It is this knowledge that is most valuable to a believer, not the work of art itself.
+
+Religious texts provide precise descriptions of how gods and the cosmic world they inhabit should appear. A work of art that does not follow these descriptions accurately cannot serve its purpose.
+
+**Hinduism’s role in Shaping Literature**
+
+In shaping the Indian identity and Indian literature Hinduism has played a central role it has been a treasure trove of diverse cultural expressions. The perceptions and interpretations of Hinduism of Indian poets offer unique understanding into the complexities and fine points of Indianness. The present study aims to explore how poets in Indian literature have presented Hinduism, suppling a deep insight of the religion's influence on the Indian psyche. The present study delves into the exploration of "Indianness" in Indian literature by the lens of Hinduism's profusive influence. Indian literature topography reflects a unique amalgamation of languages, religions, traditions, and perspectives, contributing to the heterogenous cultural identity of the nation. 
+
+There are three main yearly festivals. All major festival celebrations include visiting a temple, eating special foods and exchanging gifts.
+
+**Diwali** is the festival of lights. Light represents knowledge. It is celebrated in late October or early November. This is the Hindu New Year.
+
+**Holi** is the festival which marks the coming of spring. It is held in March or April. There are processions and people light bonfires and cover each other with colored water and powders.
+
+**Dussehra** is the festival which marks Rama's triumph over the evil Ravana. It is held in September. There are dances and plays with events in the life of the god Rama depicted.
+
+Every twelve years in January or February:
+
+**Kumbha Mela:** This celebration is a huge bathing affair. Millions of Hindu pilgrims go to the River Ganges at Allahbad for this festival.
 
 
+**Buddhism's influence on meditation practices**   mindfulness movements in Asia and the West.
 
+Cognitive and neuroscience research from the past several years has shed new light on the influences that meditative traditions have on the meditation practice. Here we review new evidence that shows that types of meditation that developed out of certain traditions such as Vajrayana and Hindu Tantric lead to heightened sympathetic activation and phasic alertness, while types of meditation from other traditions such as Theravada and Mahayana elicit heightened parasympathetic activity and tonic alertness. Such findings validate Buddhist scriptural descriptions of heightened arousal during Vajrayana practices and a calm and alert state of mind during Theravada and Mahayana types of meditation and demonstrate the importance of the cultural and philosophical context out of which the meditation practices develop.
 
+**Buddhism's influence on Art**
+Buddhist art is visual art produced in the context of Buddhism. It includes depictions of Gautama Buddha and other Buddhas and bodhisattvas, notable Buddhist figures both historical and mythical, narrative scenes from their lives, mandalas, and physical objects associated with Buddhist practice, such as vajras, bells, stupas and Buddhist temple architecture.[1] Buddhist art originated in the north of the Indian subcontinent, in modern India, Pakistan and Afghanistan, with the earliest survivals dating from a few centuries after the historical life of Siddhartha Gautama from the 6th to 5th century BCE.As Buddhism spread and evolved in each new host country, Buddhist art followed in its footsteps. It developed to the north through Central Asia and into Eastern Asia to form the Northern branch of Buddhist art, and to the east as far as Southeast Asia to form the Southern branch of Buddhist art. In India, Buddhist art flourished and co-developed with Hindu and Jain art, with cave temple complexes built together, each likely influencing the other.[2]
 
+Initially the emphasis was on devotional statues of the historical Buddha, as well as detailed scenes in relief of his life, and former lives, but as the Buddhist pantheon developed devotional images of bodhisattvas and other figures became common subjects in themselves in Northern Buddhist art, rather than just attendants of the Buddha, and by the late first millennium came to predominate.
 
+**Buddhism's influence on Architecture**
 
+Buddhism is a religion having its origin in Indian soil, which cherished and spread to different parts of the world. With the decease of Lord Buddha different forms of Architectural structures were erected to mark the burial place for Buddha and create a place of worship for followers of Buddhism. These structures were built using traditional material like mud, burnt bricks and stone which has close resemblance to Hinduism and Hindu Architecture as far as choice of material for construction is concerned. The Buddhist Architecture received recognition with development of places of worship which were more ornate and built forms as large domes with cardinal entrance points. Basically three important types of structures were built and used by followers of Buddhism namely Stupa, Chaitya halls and Viharas. Stupa were erected to preserve relics (leftover) of Lord Gautama Buddha, Chaitya halls were large congregational spaces meant for group prayers and worship which some times housed stupa, Viharas were monasteries constructed of bricks or excavated out of rocks where monks stayed and studied in cells built for them. This paper attempts to study how the origin and growth of a new religion, lead to evolution and development of new types of architecture in India. Such an assessment will help to ascertain relationship between structural-form development and with growth of religion and impact of religion on architectural development. 
 
+Since the beginning of the twentieth century mindfulness has been positioned at the core of modern Buddhism and viewed by many modern interpreters as an essential component of Buddhist doctrine and practices. More recently, the practice of mindfulness has become rapidly popularised, radically secularised and removed from its Buddhist context, employed mainly as a therapeutic tool or applied for the enhancement of well-being. This paper examines the concept of mindfulness using an historical lens, aiming to identify some of the main parameters and consequent implications involved in the changes and developments of this Buddhist contemplative method—from its early beginnings over 2,500 years ago to the present day. Special attention is given to the historical developments in the colonial period, when various Buddhist traditions encountered the main European discourses of the time, resulting in the birth of modern Buddhism. In this period, particularly in Burma, meditation was positioned at the centre of Buddhist teachings and thus provided the grounds and conditions for the subsequent popularisation and secularisation of mindfulness in the late twentieth century. Through an examination of the concept of mindfulness through history, the paper explores whether a critical awareness of historical facts provides a better understanding of the current ubiquity of mindfulness practices worldwide. In addition, mindfulness has recently become an object of scientific research and, hence, it is important to investigate it in different contexts and discourses throughout history, and understand the implications of various definitions, interpretations and applications of mindfulness for the development of modern research approaches and methodologies.
 
-
-
-
-
-
-
-
-
-
-Cultural Impacts:
-
-Hinduism’s role in shaping Indian art, literature, and festivals.
-
-Buddhism's influence on meditation practices, art, architecture, and mindfulness movements in Asia and the West.
-
-Rituals and Practices:
+**Rituals and Practices:**
 
 Hinduism: Rituals like puja, yoga, pilgrimages (e.g., to Varanasi), and festivals (e.g., Diwali, Holi).
 
