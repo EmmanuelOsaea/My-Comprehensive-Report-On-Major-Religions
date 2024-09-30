@@ -520,7 +520,8 @@ Since the beginning of the twentieth century mindfulness has been positioned at 
 
 **Rituals and Practices:**
 
-**Hinduism:** Devotion (Bhakti)
+**Hinduism:** 
+
 Devotion (bhakti) refers to both a practice and a path (mārga) towards salvation. Devotion entails total and unconditional surrender and selfless love towards a personal or chosen deity. In turn, the person becomes a devotee of their chosen god or goddess. The idea of bhakti encompasses all rituals related to worshipping or venerating deities, such as worship (pūjā) and service (sevā). Bhakti is a practice open to all Hindus regardless of their caste, life station or gender.
 
 
@@ -530,31 +531,30 @@ Worship (pūjā) is one of the most central practices in Hinduism. Every form of
 
 Some rituals that may occur include ‘seeing’ the deity (darśana), and chanting mantras. Other common elements include playing instruments, ringing bells, burning incense, gestures, prostrations, ceremoniously walking around the deity’s altar, and offerings (usually food, fresh flowers and light produced from ghee-soaked wicks, otherwise known as ārtī). During a pūjā at a temple, the worshipper may receive sweets or a blessing (prasāda), a thread tied to their wrist or coloured powder (usually red or orange turmeric) dotted on their forehead.
 
+**Buddhism:**
 
-
-
-
-Buddhism: 
-
-**Meditation**   , chanting, monastic life, festivals like Vesak, and practice of mindfulness.
+**Meditation**   
 
 Buddhist meditation generally takes a simple object, often the breath, and offer techniques to practise mindfulness and arouse awareness with it. This brings peace and ease with the way the breath rises and falls. If we feel some stillness and happiness in the breath, we can feel peaceful and unified during the day too. The breath arouses calm, as it becomes very unifying and pleasant to be aware of it; the meditator can then develop jhāna. The breath also arouses insight, as the mind feels at ease in its constant ebb and flow, and sees impermanence in the breath’s movement in and out of the body. When both calm and insight are present, the meditation is in balance. The texts describe many such meditations, of different varieties. Loving kindness (mettā-bhāvanā), for instance, is a popular calm practice linked to mindfulness that helps you to feel comfortable with yourself, and others around. In this meditation you wish for your own happiness, and all other beings too. If you are kind to yourself, you are more likely to find it easier to feel kindness for others.
 
 These meditations work with the three ethical factors of speech, action and livelihood. They are said to protect the mind in daily life, and are important as a basis for all meditation.
 
 **What is Buddhist chanting?**
+
 Such images were and are used as objects of devotion. The person sitting or kneeling in front of them makes offerings of flowers, lights and incense, and meditates or chants. This is a way of paying homage, honouring, and hoping that the qualities in the image might arise in them too. The Buddha represents the human mind at its full potential, with great understanding, calm and a profound wisdom. Buddhism suggests that this awakened wisdom and peace is possible in all human beings too, but needs to be cultivated, or found. Just by sitting in front of the figure, and paying respects to it, Buddhists, or sometimes those just interested in Buddhism, can also feel intuitively a connection with the Buddhist path and the way to freedom. So some meditations are chants, refuges to the Buddha, to his teaching, and to his followers. There are also longer chants, called ‘recollections’ (anusṃrti/anussati), reflections on the possibilities of an awake mind, the teaching that can bring this, and other beings who have followed and teach the path to freedom.
 
 **Monastic Life**
+
 Buddhist monasticism is one of the earliest surviving forms of organized monasticism and one of the fundamental institutions of Buddhism. Monks and nuns, called bhikkhu (Pali, Skt. bhikshu) and bhikkhuni (Skt. bhikshuni), are responsible for the preservation and dissemination of the Buddha's teaching and the guidance of Buddhist lay people. Three surviving traditions of monastic discipline (Vinaya), govern modern monastic life in different regional traditions: Theravada (Sri Lanka and Southeast Asia), Dharmaguptaka (East Asia), and Mulasarvastivada (Tibet and the Himalayan region).[1]
 
-C. Judaism and Sikhism
+**C. Judaism and Sikhism**
 
-Beliefs and Doctrines:
+**Beliefs and Doctrines:**
 
 **Judaism:**
 
-The history of Judaism
+**The history of Judaism**
+
 It is history that provides the key to an understanding of Judaism, for its primal affirmations appear in early historical narratives. Thus, the Bible reports contemporary events and activities for essentially religious reasons. The biblical authors believed that the divine presence is encountered primarily within history. God’s presence is also experienced within the natural realm, but the more immediate or intimate disclosure occurs in human actions. Although other ancient communities also perceived a divine presence in history, the understanding of the ancient Israelites proved to be the most lasting and influential. It is this particular claim—to have experienced God’s presence in human events—and its subsequent development that is the differentiating factor in Jewish thought.
 
 Moreover, the ancient Israelites’ entire mode of existence was affected by their belief that throughout history they stood in a unique relationship with the divine. The people of Israel believed that their response to the divine presence in history was central not only for themselves but for all humankind. Furthermore, God—as person—had revealed in a particular encounter the pattern and structure of communal and individual life to this people. Claiming sovereignty over the people because of his continuing action in history on their behalf, he had established a covenant (berit) with them and required from them obedience to his teaching, or law (Torah). This obedience was a further means by which the divine presence was made manifest—expressed in concrete human existence. The corporate life of the chosen community was thus a summons to the rest of humankind to recognize God’s presence, sovereignty, and purpose—the establishment of peace and well-being in the universe and in humankind.
@@ -579,7 +579,7 @@ The ethical concerns of Judaism have frequently been expressed in literary works
 
 Sikh in Punjabi means “learner,” and those who joined the Sikh community, or Panth (“Path”), were people who sought spiritual guidance. Sikhs claim that their tradition has always been separate from Hinduism. Nevertheless, many Western scholars argue that in its earliest stage Sikhism was a movement within the Hindu tradition; Nanak, they point out, was raised a Hindu and eventually belonged to the Sant tradition of northern India, a movement associated with the great poet and mystic Kabir (1440–1518). The Sants, most of whom were poor, dispossessed, and illiterate, composed hymns of great beauty expressing their experience of the divine, which they saw in all things. Their tradition drew heavily on the Vaishnava bhakti (the devotional movement within the Hindu tradition that worships the god Vishnu), though there were important differences between the two. Like the followers of bhakti, the Sants believed that devotion to God is essential to liberation from the cycle of rebirth in which all human beings are trapped; unlike the followers of bhakti, however, the Sants maintained that God is nirgun (“without form”) and not sagun (“with form”). For the Sants, God can be neither incarnated nor represented in concrete terms.
 
-Rituals and Practices:
+**Rituals and Practices:**
 
 **Judaism:** Observance of  laws (Kosher), festivals (e.g., Passover, Yom Kippur), prayer.
 The traditional pattern of an individual’s life can be discerned by examining a passage from the Babylonian Talmud (tractate Berakhot 60b) that was reworked into a liturgical structure but which in its original form exhibits the intention discussed above. In this passage, the blessings accompanying one’s waking and returning to the routines of life are prescribed. There is a brief thanksgiving on awakening for being restored to conscious life; then a benediction is offered over the cock’s crowing; following this, each ordinary act—opening one’s eyes, stretching and sitting up, dressing, standing up, walking, tying one’s shoes, fastening one’s belt, covering one’s head, washing one’s hands and face—has its accompanying blessing, reminding one that the world and the life to which he has returned exist in the presence of God. These are followed by a supplication in which the petitioner asks that his life during the day may be worthy in all of its relationships. Then, as the first order of daily business, Torah, both written (Bible) and oral (Mishna), is briefly studied, introduced by doxologies to God as Giver of Torah. Finally, there is a prayer for the establishment of the kingdom of God, for each day contains within itself the possibility of ultimate fulfillment. As indicated, this was originally not a part of public worship but rather was personal preparation for a life to be lived in the presence of God (even today it is not, strictly speaking, part of the synagogue service, though it is frequently recited there).
@@ -590,29 +590,101 @@ Such individual responsibility marks much of Jewish observance, so that the syna
 
 
 
-3. Comparative Table
 
-Include a table summarizing the key aspects (beliefs, cultural impacts, and rituals) of each religion for a quick reference.
+**4. Coverage of Other Major Religions**
 
-4. Coverage of Other Major Religions
+**Taoism:** Belief in harmony with the Tao, impact on Chinese culture, practices like Tai Chi.
+Taoism or Daoism ( /ˈtaʊ.ɪzəm/ ⓘ, /ˈdaʊ.ɪzəm/ ⓘ) is a diverse philosophical and religious tradition indigenous to China, emphasizing harmony with the Tao—generally understood as an impersonal, enigmatic process of transformation ultimately underlying reality.[1][2] The concept originates in the Chinese word 道 (pinyin: dào; Wade–Giles: tao4). Although Taoism has no simple definitions, possible translations of Tao include 'way', 'road', and 'technique'. Taoist thought has informed the development of various practices within the Taoist tradition and beyond, including forms of meditation, astrology, qigong, feng shui, and internal alchemy. A common goal of Taoist practice is self-cultivation, a deeper appreciation of the Tao, and more harmonious existence. Taoist ethics vary, but generally emphasize such virtues as effortless action, naturalness, simplicity, and the three treasures of compassion, frugality, and humility.
 
-Taoism: Belief in harmony with the Tao, impact on Chinese culture, practices like Tai Chi.
+**Shinto:** Indigenous Japanese belief system, emphasis on kami (spirits), rituals, and festivals.
+Shintō consists of the traditional Japanese religious practices as well as the beliefs and life attitudes that are in accord with these practices. Shintō is more readily observed in the social life of the Japanese people and in their personal motivations than in a pattern of formal belief or philosophy. It remains closely connected with the Japanese value system and the Japanese people’s ways of thinking and acting.
 
-Shinto: Indigenous Japanese belief system, emphasis on kami (spirits), rituals, and festivals.
-
+Shintō can be roughly classified into the following three major types: Shrine Shintō, Sect Shintō, and Folk Shintō. Shrine Shintō (Jinja Shintō), which has been in existence from the beginning of Japanese history to the present day, constitutes a main current of Shintō tradition. Shrine Shintō includes within its structure the now defunct State Shintō (Kokka Shintō)—based on the total identity of religion and state—and has close relations with the Japanese Imperial family. Sect Shintō (Kyōha Shintō) is a relatively new movement consisting of 13 major sects that originated in Japan around the 19th century and of several others that emerged after World War II. Each sect was organized into a religious body by either a founder or a systematizer. Folk Shintō (Minzoku Shintō) is an aspect of Japanese folk belief that is closely connected with the other types of Shintō. It has no formal organizational structure nor doctrinal formulation but is centred in the veneration of small roadside images and in the agricultural rites of rural families. These three types of Shintō are interrelated: Folk Shintō exists as the substructure of Shintō faith, and a Sect Shintō follower is usually also a parishioner (ujiko) of a particular Shintō shrine.
 Zoroastrianism: One of the world's oldest monotheistic religions, influence on other religions, emphasis on dualism (good vs. evil).
 
-5. Conclusion
+**5. Conclusion**
 
-Summary of Findings: Highlight the main similarities and differences.
+**Summary of Findings:** Highlight the main similarities and differences.
 
+**Similarities**
+
+•   A community of belonging, even love
+
+ Any group of people who surround themselves with people of like mind often form communities or associations meant to encourage them in their beliefs and goals. It is human nature to form communities.
+
+ •   Purpose and meaning in life
+
+ People usually find purpose and meaning in things outside of themselves. Religion offers many ways for people to express their beliefs to the world around them.
+
+ •   A future in this life
+
+ Everyone wants hope. No one wants a bleak future. All religions offer their version of hope to any who embrace them.
+
+ •   A way to deal with sin and wrong
+
+ Most religions deal with the issue of sin by either redefining it as something innocuous or by ignoring it. Usually this comes in finding ways to ignore or put away feelings of guilt without actually dealing with the act of sin itself.
+
+ •   An identity that transcends culture, nationality, and all other associations
+
+ This is part of forming community. People of like-minded faith have a natural affinity for others of the same faith regardless of where they may come from.
+
+ •   Activity that changes people’s lives for the better
+
+ Mercy projects, community building, expressions of commitment and common purpose—you can find these in all religions. Yes, people’s lives often change for the better by involvement in such efforts.
 Significance: Discuss the role of religions in shaping human culture, values, and history.
 
 Future Outlook: Briefly touch on the future role of religions in a globalized world.
 
-6. References
+**Differences**
 
-Include scholarly books, articles, and reputable online sources to support your analysis.
+Religious diversity is the fact that there are significant differences in religious belief and practice. It has always been recognized by people outside the smallest and most isolated communities. But since early modern times, increasing information from travel, publishing, and emigration have forced thoughtful people to reflect more deeply on religious diversity. Roughly, pluralistic approaches to religious diversity say that, within bounds, one religion is as good as any other. In contrast, exclusivist approaches say that only one religion is uniquely valuable. Finally, inclusivist theories try to steer a middle course by agreeing with exclusivism that one religion has the most value while also agreeing with pluralism that others still have significant religious value.
+
+As a contested term, globalization has many definitions, each worthy of merit. Generally, globalization is first thought of “in economic and political terms, as a movement of capitalism spreading across the globe.”[1] It calls to mind “homogenizing exports of the US” such as Nike, McDonald’s, and MTV.[2] However, since globalization can be defined as a process of an “ever more interdependent world”[3] where “political, economic, social, and cultural relationships are not restricted to territorial boundaries or to state actors,” globalization has much do with its impact on cultures.[4]
+
+In short, globalization allows for religions previously isolated from one another to now have regular and unavoidable contact. As a result, globalization brings to the light the fact that since religions have similar values, not one of them is “correct” and, therefore, can be changed.[29] But as the next section shows, the same process that engenders greater religious tolerance also creates a backlash of religious parochialism.
+
+**6. References**
+
+Here are my links sources for my  analyses.
+
+https://www.britannica.com/story/what-is-the-most-widely-practiced-religion-in-the-world
+
+https://www.twinkl.com.ng/teaching-wiki/similarities-between-christianity-and-islam#:~:text=Muslims%20follow%20the%20Qur'an,the%20Doctrine%20of%20the%20Trinity.
+
+https://www.britannica.com/topic/Christianity/Scripture-and-tradition-the-apostolic-witness
+
+https://www.britannica.com/topic/Islam/Eschatology-doctrine-of-last-things
+
+https://www.newwavemagazine.com/single-post/christianity-and-western-art-and-architecture
+
+https://en.m.wikipedia.org/wiki/Christian_philosophy
+
+https://www.myrtlefieldhouse.com/david-gooding-answers/greek-influence-christian-thinking
+
+https://blogs.crossmap.com/stories/what-are-the-roles-of-christianity-in-education-MFT9lnwY8YelPXv3zklUq
+
+https://reasons.org/explore/blogs/reflections/how-christianity-influenced-the-world-s-law-systems
+
+https://www.britannica.com/science/algebra/Islamic-contributions
+
+https://en.m.wikipedia.org/wiki/Islamic_architecture
+
+https://academic.oup.com/book/27835/chapter-abstract/198139345?redirectedFrom=fulltext
+
+https://link.springer.com/chapter/10.1057/9780230393219_4
+
+https://fscj.pressbooks.pub/worldreligions/chapter/symbols-scriptures-and-rituals/
+
+https://en.m.wikipedia.org/wiki/Buddhism_and_Hinduism
+
+https://www.diffen.com/difference/Buddhism_vs_Hinduism
+
+https://study.com/learn/lesson/polytheism-religion-examples.html#:~:text=Soft%20polytheism%20means%20there%20are,currently%20practiced%20Asian%20polytheistic%20religions.
+
+https://www.britannica.com/topic/karma
+
+https://www.britannica.com/topic/Buddhism/The-life-of-the-Buddha
+
 
 
 
