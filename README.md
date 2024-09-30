@@ -520,7 +520,18 @@ Since the beginning of the twentieth century mindfulness has been positioned at 
 
 **Rituals and Practices:**
 
-Hinduism: Rituals like puja, yoga, pilgrimages (e.g., to Varanasi), and festivals (e.g., Diwali, Holi).
+**Hinduism:** Devotion (Bhakti)
+Devotion (bhakti) refers to both a practice and a path (mārga) towards salvation. Devotion entails total and unconditional surrender and selfless love towards a personal or chosen deity. In turn, the person becomes a devotee of their chosen god or goddess. The idea of bhakti encompasses all rituals related to worshipping or venerating deities, such as worship (pūjā) and service (sevā). Bhakti is a practice open to all Hindus regardless of their caste, life station or gender.
+
+
+Worship (Pūjā)
+Worship (pūjā) is one of the most central practices in Hinduism. Every form of worship consists of making offerings and receiving blessings, from elaborate temple rituals to simple home practices. The frequency, scale and exact details of a pūjā depend on the nature and location of the deity, the connected texts or ritual manuals, the intention of the participants and the occasion for the worship. Home rituals are usually adopted as part of one’s daily routine and performed without the expertise of a priest. Meanwhile, worship conducted at a temple is much more elaborate and may involve multiple people, such as a temple priest.
+
+
+Some rituals that may occur include ‘seeing’ the deity (darśana), and chanting mantras. Other common elements include playing instruments, ringing bells, burning incense, gestures, prostrations, ceremoniously walking around the deity’s altar, and offerings (usually food, fresh flowers and light produced from ghee-soaked wicks, otherwise known as ārtī). During a pūjā at a temple, the worshipper may receive sweets or a blessing (prasāda), a thread tied to their wrist or coloured powder (usually red or orange turmeric) dotted on their forehead.
+
+
+Rituals like puja, yoga, pilgrimages (e.g., to Varanasi), and festivals (e.g., Diwali, Holi).
 
 Buddhism: Meditation, chanting, monastic life, festivals like Vesak, and practice of mindfulness.
 
